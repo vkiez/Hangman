@@ -29,3 +29,6 @@ while turns > 0:
         print("\nYou have", + turns, 'more guesses') 
         if turns == 0:           
             print ("\nYou Lose") 
+
+x = 4 + 5
+print(x)
